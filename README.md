@@ -12,6 +12,12 @@ The magnetic force in a magnet flows from the North pole to the South pole.
 
 check this link:https://sciencing.com/things-do-rare-earth-magnets-6065303.html
 
+electrons = move the  create the  electricity
+cell    =  cells  hold the   electrons   they move  from  negative to positive
+voltage =  measurement = VOLTS
+
+_________________________________________________________________________________________________________________________________________
+
 plan is  to move  objects  with magnetism:
 
 setup.py_tmpl is a template (it ends with the _tmpl suffix) that will be used to create a setup.py file:
