@@ -10,6 +10,11 @@ In magnets the molecules are uniquely arranged so that their electrons spin in t
 This arrangement of atoms creates two poles in a magnet, a North-seeking pole and a South-seeking pole. 
 The magnetic force in a magnet flows from the North pole to the South pole.
 
+Variable to determine how strong the magnet is:
+   wire ( first try was  with  22 gauge)
+   iron core:  cylindrical
+   Iron, nickel, cobalt and gadolinium   very easy  to magnetize
+
 check this link:https://sciencing.com/things-do-rare-earth-magnets-6065303.html
 
 electrons = move the  create the  electricity
